@@ -1,0 +1,8 @@
+.mySys {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.myRound{
+    border-radius: 10px;
+}
